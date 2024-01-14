@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\.github",
-    "\\src"
+    "\\src",
+    "\\tests"
   ],
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": true
 }
